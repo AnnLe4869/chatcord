@@ -1,7 +1,7 @@
 {
   "name": "chatapp",
   "version": "1.0.0",
-  "description": "A real time chat app ",
+  "description": "Real time chat app with room",
   "main": "server.js",
   "scripts": {
     "start": "node server",
